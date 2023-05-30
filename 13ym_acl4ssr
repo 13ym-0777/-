@@ -35,6 +35,7 @@ ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🏬 谷歌,https://raw.githubusercontent.com/StricklandF/ios_rule_script/7f3a16bfe651dcc667e9675ca11e9e0b50347bc6/rule/Surge/Google/Google.list
 ruleset=📺 爱奇艺,https://raw.githubusercontent.com/StricklandF/ios_rule_script/7f3a16bfe651dcc667e9675ca11e9e0b50347bc6/rule/Clash/iQIYI/iQIYI.list
 ruleset=🎵 抖音,https://raw.githubusercontent.com/StricklandF/ios_rule_script/7f3a16bfe651dcc667e9675ca11e9e0b50347bc6/rule/Clash/DouYin/DouYin.list
+ruleset=🎵 抖音,https://raw.githubusercontent.com/Emyori/blackmatrix7/37845a38da9be4709f2474b6767a18685b5d24b5/rule/Surge/ByteDance/ByteDance.list
 ruleset=🛰 微信,https://raw.githubusercontent.com/StricklandF/ios_rule_script/7f3a16bfe651dcc667e9675ca11e9e0b50347bc6/rule/Clash/WeChat/WeChat.list
 ruleset=📕 小红书,https://raw.githubusercontent.com/StricklandF/ios_rule_script/7f3a16bfe651dcc667e9675ca11e9e0b50347bc6/rule/Clash/XiaoHongShu/XiaoHongShu.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
