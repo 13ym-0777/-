@@ -1,4 +1,16 @@
 payload:
-  - DOMAIN-SUFFIX,95580.net,DIRECT
-  - DOMAIN-SUFFIX,psbc.com,DIRECT
-  - DOMAIN-SUFFIX,psbcoa.com.cn,DIRECT
+  - DOMAIN-SUFFIX,img.soulapp.cn
+  - DOMAIN-SUFFIX,fingerprint.soulapp.cn
+  - DOMAIN-SUFFIX,winterfell.soulapp.cm
+  - DOMAIN-SUFFIX,photon-open-api.soulapp.cn
+  - DOMAIN-SUFFIX,gateway-mobile-gray.soulapp.cn
+  - DOMAIN-SUFFIX,insight.soulapp.cn
+  - DOMAIN-SUFFIX,api-ucc.soulapp.cn
+  - DOMAIN-SUFFIX,media-service.soulapp.cn
+  - DOMAIN-SUFFIX,photon-open-api.soulapp.cn
+  - DOMAIN-SUFFIX,api-a.soulapp.cn
+  - DOMAIN-SUFFIX,api-account.soulapp.cn
+  - DOMAIN-SUFFIX,data-collector.soulapp.cn
+  - DOMAIN-SUFFIX,china-img.soulapp.cn
+  - IP-CIDR,47.56.131.76
+  - IP-CIDR,47.110.187.87
